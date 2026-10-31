@@ -21,7 +21,7 @@ BOT_TOKEN = "9235063746:AAEdizOiHGA9zGecwQr0nOTe1FA7zNJAF_g"
 ADMIN_PASSWORD = "0408"
 SUPPORT_USERNAME = "your_support"   # без @
 SUPPORT_URL = "https://t.me/crypto_exchange_bot"  # крипто-бот для пополнения/вывода
-ADMIN_IDS = [123456789]  # <-- впиши свой Telegram ID (узнать: @userinfobot)
+ADMIN_IDS = [8874871486]  # <-- впиши свой Telegram ID (узнать: @userinfobot)
 
 START_PHOTO = "https://placehold.co/800x400/png?text=Casino+Bot"
 START_TEXT = (
